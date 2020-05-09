@@ -1438,6 +1438,7 @@ h2 {
     display: block;
   }
   .link-item__nav_slide h3 {
+    padding: 0 15px;
     border: 2px solid  #16c2a3;
     border-radius: 20px;
     line-height: 40px;
